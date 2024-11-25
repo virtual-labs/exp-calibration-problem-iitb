@@ -1,1 +1,1 @@
-### Procedure
+<img src="./images/e6.pdf1.jpg" style="width:100%">
