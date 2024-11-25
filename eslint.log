@@ -1,0 +1,596 @@
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity1.js
+   28:10  warning  'show_act1' is defined but never used                no-unused-vars
+   44:10  warning  'start_act1' is defined but never used               no-unused-vars
+   47:20  warning  'get_collapse_btn_text' is not defined               no-undef
+   76:5   warning  'hide_all_steps' is not defined                      no-undef
+   77:5   warning  'show_step' is not defined                           no-undef
+  100:10  warning  'set_n' is defined but never used                    no-unused-vars
+  105:9   warning  'N' is not defined                                   no-undef
+  110:9   warning  'N' is not defined                                   no-undef
+  117:10  warning  'internal_calculations_1' is defined but never used  no-unused-vars
+  121:28  warning  'N' is not defined                                   no-undef
+  125:5   warning  'beta0' is not defined                               no-undef
+  126:5   warning  'beta1' is not defined                               no-undef
+  127:30  warning  'beta0' is not defined                               no-undef
+  127:50  warning  'beta1' is not defined                               no-undef
+  128:5   warning  'Y2' is not defined                                  no-undef
+  130:25  warning  'X' is not defined                                   no-undef
+  131:9   warning  'Y2' is not defined                                  no-undef
+  131:17  warning  'beta0' is not defined                               no-undef
+  131:26  warning  'beta1' is not defined                               no-undef
+  131:34  warning  'X' is not defined                                   no-undef
+  133:17  warning  'Y2' is not defined                                  no-undef
+  137:22  warning  'Y2' is not defined                                  no-undef
+  138:5   warning  'Y' is not defined                                   no-undef
+  139:25  warning  'Y2' is not defined                                  no-undef
+  140:9   warning  'Y' is not defined                                   no-undef
+  140:16  warning  'Y2' is not defined                                  no-undef
+  140:25  warning  'Y2' is not defined                                  no-undef
+  140:42  warning  'epsilon' is not defined                             no-undef
+  142:17  warning  'Y' is not defined                                   no-undef
+  143:17  warning  'X' is not defined                                   no-undef
+  144:17  warning  'Y2' is not defined                                  no-undef
+  151:5   warning  'X' is not defined                                   no-undef
+  152:25  warning  'N' is not defined                                   no-undef
+  160:5   warning  'X' is not defined                                   no-undef
+  161:17  warning  'X' is not defined                                   no-undef
+  166:5   warning  'epsilon' is not defined                             no-undef
+  167:25  warning  'N' is not defined                                   no-undef
+  172:5   warning  'epsilon' is not defined                             no-undef
+  202:25  warning  'Y' is not defined                                   no-undef
+  203:21  warning  'X' is not defined                                   no-undef
+  204:35  warning  'X' is not defined                                   no-undef
+  205:35  warning  'Y' is not defined                                   no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity1_p1.js
+   1:10   warning  'activity1_p1' is defined but never used  no-unused-vars
+   6:19   warning  'get_collapse_btn_text' is not defined    no-undef
+   7:5    warning  'maindiv' is not defined                  no-undef
+  19:28   warning  'Updated_Question' is not defined         no-undef
+  19:152  warning  'activity1_p2' is not defined             no-undef
+  20:24   warning  'MathJax' is not defined                  no-undef
+  21:5    warning  'hide_all_steps' is not defined           no-undef
+  22:5    warning  'show_step' is not defined                no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity1_p2.js
+   1:10  warning  'activity1_p2' is defined but never used      no-unused-vars
+   2:19  warning  'get_collapse_btn_text' is not defined        no-undef
+   3:5   warning  'maindiv' is not defined                      no-undef
+   7:5   warning  'act1_table_data' is not defined              no-undef
+   8:25  warning  'X' is not defined                            no-undef
+   9:9   warning  'act1_table_data' is not defined              no-undef
+   9:31  warning  'X' is not defined                            no-undef
+   9:48  warning  'Y' is not defined                            no-undef
+   9:66  warning  'X' is not defined                            no-undef
+   9:73  warning  'X' is not defined                            no-undef
+   9:91  warning  'X' is not defined                            no-undef
+   9:98  warning  'Y' is not defined                            no-undef
+  12:15  warning  'X' is not defined                            no-undef
+  12:22  warning  'X' is not defined                            no-undef
+  12:28  warning  'X' is not defined                            no-undef
+  12:35  warning  'Y' is not defined                            no-undef
+  14:25  warning  'Verify_Table' is not defined                 no-undef
+  14:46  warning  'act1_table_data' is not defined              no-undef
+  18:5   warning  'hide_all_steps' is not defined               no-undef
+  19:5   warning  'show_step' is not defined                    no-undef
+  41:24  warning  'MathJax' is not defined                      no-undef
+  43:10  warning  'verify_summation' is defined but never used  no-unused-vars
+  53:5   warning  'sum_X' is not defined                        no-undef
+  54:5   warning  'sum_Y' is not defined                        no-undef
+  55:5   warning  'sum_XX' is not defined                       no-undef
+  56:5   warning  'sum_XY' is not defined                       no-undef
+  57:25  warning  'act1_table_data' is not defined              no-undef
+  58:9   warning  'sum_X' is not defined                        no-undef
+  58:18  warning  'act1_table_data' is not defined              no-undef
+  59:9   warning  'sum_Y' is not defined                        no-undef
+  59:18  warning  'act1_table_data' is not defined              no-undef
+  60:9   warning  'sum_XX' is not defined                       no-undef
+  60:19  warning  'act1_table_data' is not defined              no-undef
+  61:9   warning  'sum_XY' is not defined                       no-undef
+  61:19  warning  'act1_table_data' is not defined              no-undef
+  63:17  warning  'sum_X' is not defined                        no-undef
+  63:24  warning  'sum_Y' is not defined                        no-undef
+  63:31  warning  'sum_XX' is not defined                       no-undef
+  63:39  warning  'sum_XY' is not defined                       no-undef
+  65:10  warning  'verify_values' is not defined                no-undef
+  65:48  warning  'sum_X' is not defined                        no-undef
+  69:10  warning  'verify_values' is not defined                no-undef
+  69:48  warning  'sum_Y' is not defined                        no-undef
+  73:10  warning  'verify_values' is not defined                no-undef
+  73:48  warning  'sum_XX' is not defined                       no-undef
+  77:10  warning  'verify_values' is not defined                no-undef
+  77:48  warning  'sum_XY' is not defined                       no-undef
+  87:22  warning  'sum_X' is not defined                        no-undef
+  88:22  warning  'sum_Y' is not defined                        no-undef
+  89:22  warning  'sum_XX' is not defined                       no-undef
+  90:22  warning  'sum_XY' is not defined                       no-undef
+  91:5   warning  'activity1_p3' is not defined                 no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity1_p3.js
+    1:10   warning  'activity1_p3' is defined but never used  no-unused-vars
+    2:20   warning  'get_collapse_btn_text' is not defined    no-undef
+    3:5    warning  'maindiv' is not defined                  no-undef
+    8:49   warning  'sum_X' is not defined                    no-undef
+    8:79   warning  'sum_Y' is not defined                    no-undef
+    8:111  warning  'sum_XX' is not defined                   no-undef
+    8:143  warning  'sum_XY' is not defined                   no-undef
+   94:5    warning  'mat_A' is not defined                    no-undef
+   94:19   warning  'sum_XX' is not defined                   no-undef
+   95:17   warning  'mat_A' is not defined                    no-undef
+   96:5    warning  'mat_A' is not defined                    no-undef
+   96:19   warning  'sum_X' is not defined                    no-undef
+   97:17   warning  'mat_A' is not defined                    no-undef
+   98:5    warning  'mat_A' is not defined                    no-undef
+   98:19   warning  'sum_X' is not defined                    no-undef
+   99:17   warning  'mat_A' is not defined                    no-undef
+  100:5    warning  'mat_A' is not defined                    no-undef
+  100:19   warning  'N' is not defined                        no-undef
+  101:17   warning  'mat_A' is not defined                    no-undef
+  104:5    warning  'mat_B' is not defined                    no-undef
+  104:16   warning  'sum_XY' is not defined                   no-undef
+  105:5    warning  'mat_B' is not defined                    no-undef
+  105:16   warning  'sum_Y' is not defined                    no-undef
+  107:17   warning  'mat_A' is not defined                    no-undef
+  108:17   warning  'mat_B' is not defined                    no-undef
+  110:15   warning  'mat_A' is not defined                    no-undef
+  110:28   warning  'mat_A' is not defined                    no-undef
+  110:43   warning  'mat_A' is not defined                    no-undef
+  110:56   warning  'mat_A' is not defined                    no-undef
+  111:14   warning  'mat_B' is not defined                    no-undef
+  111:24   warning  'mat_B' is not defined                    no-undef
+  113:24   warning  'MathJax' is not defined                  no-undef
+  114:5    warning  'hide_all_steps' is not defined           no-undef
+  115:5    warning  'show_step' is not defined                no-undef
+  118:5    warning  'mat_x' is not defined                    no-undef
+  118:13   warning  'gauss' is not defined                    no-undef
+  119:24   warning  'mat_x' is not defined                    no-undef
+  119:41   warning  'mat_x' is not defined                    no-undef
+  121:10   warning  'verify_a_b' is defined but never used    no-unused-vars
+  127:10   warning  'verify_values' is not defined            no-undef
+  127:48   warning  'mat_x' is not defined                    no-undef
+  131:10   warning  'verify_values' is not defined            no-undef
+  131:48   warning  'mat_x' is not defined                    no-undef
+  141:5    warning  'activity2' is not defined                no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity1_p4.js
+    1:10   warning  'activity1_p4' is defined but never used        no-unused-vars
+    2:20   warning  'get_collapse_btn_text' is not defined          no-undef
+    3:5    warning  'maindiv' is not defined                        no-undef
+    8:18   warning  'mat_x' is not defined                          no-undef
+    8:49   warning  'mat_x' is not defined                          no-undef
+   43:24   warning  'MathJax' is not defined                        no-undef
+   44:5    warning  'hide_all_steps' is not defined                 no-undef
+   45:5    warning  'show_step' is not defined                      no-undef
+   47:10   warning  'verify_avg' is defined but never used          no-unused-vars
+   53:5    warning  'X_avg' is not defined                          no-undef
+   54:5    warning  'Y_avg' is not defined                          no-undef
+   55:25   warning  'X' is not defined                              no-undef
+   56:9    warning  'X_avg' is not defined                          no-undef
+   56:18   warning  'X' is not defined                              no-undef
+   57:9    warning  'Y_avg' is not defined                          no-undef
+   57:18   warning  'Y' is not defined                              no-undef
+   59:5    warning  'X_avg' is not defined                          no-undef
+   59:13   warning  'X_avg' is not defined                          no-undef
+   59:21   warning  'X' is not defined                              no-undef
+   60:5    warning  'Y_avg' is not defined                          no-undef
+   60:13   warning  'Y_avg' is not defined                          no-undef
+   60:21   warning  'Y' is not defined                              no-undef
+   61:27   warning  'X_avg' is not defined                          no-undef
+   61:47   warning  'Y_avg' is not defined                          no-undef
+   62:10   warning  'verify_values' is not defined                  no-undef
+   62:48   warning  'X_avg' is not defined                          no-undef
+   66:10   warning  'verify_values' is not defined                  no-undef
+   66:48   warning  'Y_avg' is not defined                          no-undef
+   91:5    warning  'act1_table_data_2' is not defined              no-undef
+   92:25   warning  'X' is not defined                              no-undef
+   93:9    warning  'act1_table_data_2' is not defined              no-undef
+   94:13   warning  'X' is not defined                              no-undef
+   95:24   warning  'Y' is not defined                              no-undef
+   96:25   warning  'X' is not defined                              no-undef
+   96:32   warning  'X_avg' is not defined                          no-undef
+   97:35   warning  'X' is not defined                              no-undef
+   97:42   warning  'X_avg' is not defined                          no-undef
+   98:25   warning  'Y' is not defined                              no-undef
+   98:32   warning  'Y_avg' is not defined                          no-undef
+   99:35   warning  'Y' is not defined                              no-undef
+   99:42   warning  'Y_avg' is not defined                          no-undef
+  100:26   warning  'Y' is not defined                              no-undef
+  100:33   warning  'Y_avg' is not defined                          no-undef
+  100:43   warning  'X' is not defined                              no-undef
+  100:50   warning  'X_avg' is not defined                          no-undef
+  101:25   warning  'mat_x' is not defined                          no-undef
+  101:37   warning  'mat_x' is not defined                          no-undef
+  101:48   warning  'X' is not defined                              no-undef
+  102:35   warning  'Y' is not defined                              no-undef
+  102:43   warning  'mat_x' is not defined                          no-undef
+  102:55   warning  'mat_x' is not defined                          no-undef
+  102:66   warning  'X' is not defined                              no-undef
+  106:15   warning  'act1_table_data_2' is not defined              no-undef
+  106:40   warning  'act1_table_data_2' is not defined              no-undef
+  106:65   warning  'act1_table_data_2' is not defined              no-undef
+  106:90   warning  'act1_table_data_2' is not defined              no-undef
+  106:115  warning  'act1_table_data_2' is not defined              no-undef
+  106:140  warning  'act1_table_data_2' is not defined              no-undef
+  106:165  warning  'act1_table_data_2' is not defined              no-undef
+  107:25   warning  'Verify_Table' is not defined                   no-undef
+  107:46   warning  'act1_table_data_2' is not defined              no-undef
+  109:24   warning  'MathJax' is not defined                        no-undef
+  154:24   warning  'MathJax' is not defined                        no-undef
+  156:10   warning  'verify_sm' is defined but never used           no-unused-vars
+  164:9    warning  'dsp_xx' is assigned a value but never used     no-unused-vars
+  165:9    warning  'dsp_yy' is assigned a value but never used     no-unused-vars
+  166:9    warning  'dsp_xy' is assigned a value but never used     no-unused-vars
+  167:9    warning  'dsp_ssr' is assigned a value but never used    no-unused-vars
+  168:9    warning  'dsp_smres' is assigned a value but never used  no-unused-vars
+  169:5    warning  'sxx' is not defined                            no-undef
+  170:5    warning  'syy' is not defined                            no-undef
+  171:5    warning  'sxy' is not defined                            no-undef
+  172:5    warning  'ssr' is not defined                            no-undef
+  173:5    warning  'smres' is not defined                          no-undef
+  174:25   warning  'act1_table_data_2' is not defined              no-undef
+  175:9    warning  'sxx' is not defined                            no-undef
+  175:16   warning  'act1_table_data_2' is not defined              no-undef
+  176:9    warning  'syy' is not defined                            no-undef
+  176:16   warning  'act1_table_data_2' is not defined              no-undef
+  177:9    warning  'sxy' is not defined                            no-undef
+  177:16   warning  'act1_table_data_2' is not defined              no-undef
+  177:42   warning  'act1_table_data_2' is not defined              no-undef
+  178:9    warning  'ssr' is not defined                            no-undef
+  178:16   warning  'act1_table_data_2' is not defined              no-undef
+  180:5    warning  'smres' is not defined                          no-undef
+  180:13   warning  'ssr' is not defined                            no-undef
+  180:20   warning  'act1_table_data_2' is not defined              no-undef
+  181:17   warning  'sxx' is not defined                            no-undef
+  181:22   warning  'syy' is not defined                            no-undef
+  181:27   warning  'sxy' is not defined                            no-undef
+  181:32   warning  'ssr' is not defined                            no-undef
+  181:37   warning  'smres' is not defined                          no-undef
+  182:10   warning  'verify_values' is not defined                  no-undef
+  182:48   warning  'sxx' is not defined                            no-undef
+  186:10   warning  'verify_values' is not defined                  no-undef
+  186:48   warning  'syy' is not defined                            no-undef
+  190:10   warning  'verify_values' is not defined                  no-undef
+  190:48   warning  'sxy' is not defined                            no-undef
+  194:10   warning  'verify_values' is not defined                  no-undef
+  194:48   warning  'ssr' is not defined                            no-undef
+  198:10   warning  'verify_values' is not defined                  no-undef
+  198:48   warning  'smres' is not defined                          no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity2.js
+   1:10  warning  'activity2' is defined but never used      no-unused-vars
+   2:5   warning  'maindiv' is not defined                   no-undef
+  30:10  warning  'start_act2' is defined but never used     no-unused-vars
+  33:20  warning  'get_collapse_btn_element' is not defined  no-undef
+  43:28  warning  'Updated_Question' is not defined          no-undef
+  43:79  warning  'activity2_p1' is not defined              no-undef
+  44:5   warning  'maindiv' is not defined                   no-undef
+  45:5   warning  'maindiv' is not defined                   no-undef
+  46:5   warning  'maindiv' is not defined                   no-undef
+  48:24  warning  'MathJax' is not defined                   no-undef
+  49:5   warning  'hide_all_steps' is not defined            no-undef
+  50:5   warning  'show_step' is not defined                 no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity2_p1.js
+   1:10  warning  'activity2_p1' is defined but never used        no-unused-vars
+   2:19  warning  'get_collapse_btn_text' is not defined          no-undef
+   3:5   warning  'maindiv' is not defined                        no-undef
+   7:5   warning  'act2_table_data' is not defined                no-undef
+   8:25  warning  'X' is not defined                              no-undef
+   9:9   warning  'act2_table_data' is not defined                no-undef
+   9:31  warning  'X' is not defined                              no-undef
+   9:48  warning  'Y' is not defined                              no-undef
+   9:66  warning  'Y' is not defined                              no-undef
+   9:73  warning  'Y' is not defined                              no-undef
+   9:91  warning  'X' is not defined                              no-undef
+   9:98  warning  'Y' is not defined                              no-undef
+  12:15  warning  'Y' is not defined                              no-undef
+  12:22  warning  'Y' is not defined                              no-undef
+  12:28  warning  'X' is not defined                              no-undef
+  12:35  warning  'Y' is not defined                              no-undef
+  14:25  warning  'Verify_Table' is not defined                   no-undef
+  14:46  warning  'act2_table_data' is not defined                no-undef
+  18:5   warning  'hide_all_steps' is not defined                 no-undef
+  19:5   warning  'show_step' is not defined                      no-undef
+  41:24  warning  'MathJax' is not defined                        no-undef
+  43:10  warning  'verify_summation_2' is defined but never used  no-unused-vars
+  53:5   warning  'act2_sum_X' is not defined                     no-undef
+  54:5   warning  'act2_sum_Y' is not defined                     no-undef
+  55:5   warning  'act2_sum_Y2' is not defined                    no-undef
+  56:5   warning  'act2_sum_XY' is not defined                    no-undef
+  57:25  warning  'act2_table_data' is not defined                no-undef
+  58:9   warning  'act2_sum_X' is not defined                     no-undef
+  58:23  warning  'act2_table_data' is not defined                no-undef
+  59:9   warning  'act2_sum_Y' is not defined                     no-undef
+  59:23  warning  'act2_table_data' is not defined                no-undef
+  60:9   warning  'act2_sum_Y2' is not defined                    no-undef
+  60:24  warning  'act2_table_data' is not defined                no-undef
+  61:9   warning  'act2_sum_XY' is not defined                    no-undef
+  61:24  warning  'act2_table_data' is not defined                no-undef
+  63:17  warning  'act2_sum_X' is not defined                     no-undef
+  63:29  warning  'act2_sum_Y' is not defined                     no-undef
+  63:41  warning  'act2_sum_Y2' is not defined                    no-undef
+  63:54  warning  'act2_sum_XY' is not defined                    no-undef
+  65:10  warning  'verify_values' is not defined                  no-undef
+  65:48  warning  'act2_sum_X' is not defined                     no-undef
+  69:10  warning  'verify_values' is not defined                  no-undef
+  69:48  warning  'act2_sum_Y' is not defined                     no-undef
+  73:10  warning  'verify_values' is not defined                  no-undef
+  73:48  warning  'act2_sum_Y2' is not defined                    no-undef
+  77:10  warning  'verify_values' is not defined                  no-undef
+  77:48  warning  'act2_sum_XY' is not defined                    no-undef
+  87:22  warning  'act2_sum_X' is not defined                     no-undef
+  88:22  warning  'act2_sum_Y' is not defined                     no-undef
+  89:22  warning  'act2_sum_Y2' is not defined                    no-undef
+  90:22  warning  'act2_sum_XY' is not defined                    no-undef
+  91:5   warning  'activity2_p2' is not defined                   no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity2_p2.js
+    1:10   warning  'activity2_p2' is defined but never used  no-unused-vars
+    2:20   warning  'get_collapse_btn_text' is not defined    no-undef
+    3:5    warning  'maindiv' is not defined                  no-undef
+    8:49   warning  'act2_sum_X' is not defined               no-undef
+    8:84   warning  'act2_sum_Y' is not defined               no-undef
+    8:121  warning  'act2_sum_Y2' is not defined              no-undef
+    8:158  warning  'act2_sum_XY' is not defined              no-undef
+   94:5    warning  'a2_mat_A' is not defined                 no-undef
+   94:22   warning  'act2_sum_Y2' is not defined              no-undef
+   95:17   warning  'a2_mat_A' is not defined                 no-undef
+   96:5    warning  'a2_mat_A' is not defined                 no-undef
+   96:22   warning  'act2_sum_Y' is not defined               no-undef
+   97:17   warning  'a2_mat_A' is not defined                 no-undef
+   98:5    warning  'a2_mat_A' is not defined                 no-undef
+   98:22   warning  'act2_sum_Y' is not defined               no-undef
+   99:17   warning  'a2_mat_A' is not defined                 no-undef
+  100:5    warning  'a2_mat_A' is not defined                 no-undef
+  100:22   warning  'N' is not defined                        no-undef
+  101:17   warning  'a2_mat_A' is not defined                 no-undef
+  104:5    warning  'a2_mat_B' is not defined                 no-undef
+  104:19   warning  'act2_sum_XY' is not defined              no-undef
+  105:5    warning  'a2_mat_B' is not defined                 no-undef
+  105:19   warning  'act2_sum_X' is not defined               no-undef
+  107:17   warning  'a2_mat_A' is not defined                 no-undef
+  108:17   warning  'a2_mat_B' is not defined                 no-undef
+  110:15   warning  'a2_mat_A' is not defined                 no-undef
+  110:31   warning  'a2_mat_A' is not defined                 no-undef
+  110:49   warning  'a2_mat_A' is not defined                 no-undef
+  110:65   warning  'a2_mat_A' is not defined                 no-undef
+  111:14   warning  'a2_mat_B' is not defined                 no-undef
+  111:27   warning  'a2_mat_B' is not defined                 no-undef
+  113:24   warning  'MathJax' is not defined                  no-undef
+  114:5    warning  'hide_all_steps' is not defined           no-undef
+  115:5    warning  'show_step' is not defined                no-undef
+  118:5    warning  'a2_mat_x' is not defined                 no-undef
+  118:16   warning  'gauss' is not defined                    no-undef
+  119:24   warning  'a2_mat_x' is not defined                 no-undef
+  119:44   warning  'a2_mat_x' is not defined                 no-undef
+  121:10   warning  'verify_a_b_2' is defined but never used  no-unused-vars
+  127:10   warning  'verify_values' is not defined            no-undef
+  127:48   warning  'a2_mat_x' is not defined                 no-undef
+  131:10   warning  'verify_values' is not defined            no-undef
+  131:48   warning  'a2_mat_x' is not defined                 no-undef
+  141:5    warning  'activity2' is not defined                no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity2_p3.js
+   1:10  warning  'activity2_p3' is defined but never used  no-unused-vars
+   2:20  warning  'get_collapse_btn_text' is not defined    no-undef
+   3:5   warning  'maindiv' is not defined                  no-undef
+  22:24  warning  'MathJax' is not defined                  no-undef
+  23:5   warning  'hide_all_steps' is not defined           no-undef
+  24:5   warning  'show_step' is not defined                no-undef
+  26:10  warning  'verify_a2p3' is defined but never used   no-unused-vars
+  29:20  warning  'mat_x' is not defined                    no-undef
+  30:18  warning  'mat_x' is not defined                    no-undef
+  30:29  warning  'mat_x' is not defined                    no-undef
+  31:10  warning  'verify_values' is not defined            no-undef
+  35:10  warning  'verify_values' is not defined            no-undef
+  42:5   warning  'activity3' is not defined                no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/activity3.js
+   1:10   warning  'activity3' is defined but never used      no-unused-vars
+   2:5    warning  'maindiv' is not defined                   no-undef
+  20:10   warning  'start_act3' is defined but never used     no-unused-vars
+  23:20   warning  'get_collapse_btn_element' is not defined  no-undef
+  40:178  warning  'mat_x' is not defined                     no-undef
+  41:180  warning  'a2b1' is not defined                      no-undef
+  46:178  warning  'mat_x' is not defined                     no-undef
+  47:180  warning  'a2a1' is not defined                      no-undef
+  56:5    warning  'hide_all_steps' is not defined            no-undef
+  57:5    warning  'maindiv' is not defined                   no-undef
+  58:5    warning  'maindiv' is not defined                   no-undef
+  59:5    warning  'maindiv' is not defined                   no-undef
+  61:5    warning  'show_step' is not defined                 no-undef
+  63:9    warning  'MathJax' is not defined                   no-undef
+  68:20   warning  'get_collapse_btn_element' is not defined  no-undef
+  76:19   warning  'mat_x' is not defined                     no-undef
+  76:30   warning  'a2b1' is not defined                      no-undef
+  76:44   warning  'mat_x' is not defined                     no-undef
+  77:19   warning  'mat_x' is not defined                     no-undef
+  77:30   warning  'a2a1' is not defined                      no-undef
+  77:44   warning  'mat_x' is not defined                     no-undef
+  84:28   warning  'Updated_Question' is not defined          no-undef
+  86:5    warning  'maindiv' is not defined                   no-undef
+  87:5    warning  'maindiv' is not defined                   no-undef
+  88:5    warning  'maindiv' is not defined                   no-undef
+  90:5    warning  'show_step' is not defined                 no-undef
+  92:9    warning  'MathJax' is not defined                   no-undef
+  97:5    warning  'hide_all_steps' is not defined            no-undef
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/data.js
+     2:5  warning  'N' is assigned a value but never used                         no-unused-vars
+     3:5  warning  'alpha_dd_options' is assigned a value but never used          no-unused-vars
+     4:5  warning  'alpha' is assigned a value but never used                     no-unused-vars
+    27:5  warning  'Y' is assigned a value but never used                         no-unused-vars
+    49:5  warning  'beta0' is assigned a value but never used                     no-unused-vars
+    50:5  warning  'beta1' is assigned a value but never used                     no-unused-vars
+    51:5  warning  'Y2' is assigned a value but never used                        no-unused-vars
+    73:5  warning  'epsilon' is assigned a value but never used                   no-unused-vars
+    95:5  warning  'act1_table_data' is assigned a value but never used           no-unused-vars
+   217:5  warning  'act1_table_data_2' is assigned a value but never used         no-unused-vars
+   439:5  warning  'sum_X' is assigned a value but never used                     no-unused-vars
+   440:5  warning  'sum_Y' is assigned a value but never used                     no-unused-vars
+   441:5  warning  'sum_XX' is assigned a value but never used                    no-unused-vars
+   442:5  warning  'sum_XY' is assigned a value but never used                    no-unused-vars
+   443:5  warning  'mat_A' is assigned a value but never used                     no-unused-vars
+   444:5  warning  'mat_x' is assigned a value but never used                     no-unused-vars
+   445:5  warning  'mat_B' is assigned a value but never used                     no-unused-vars
+   446:5  warning  'X_avg' is assigned a value but never used                     no-unused-vars
+   447:5  warning  'Y_avg' is assigned a value but never used                     no-unused-vars
+   449:5  warning  'sxx' is assigned a value but never used                       no-unused-vars
+   450:5  warning  'syy' is assigned a value but never used                       no-unused-vars
+   451:5  warning  'sxy' is assigned a value but never used                       no-unused-vars
+   452:5  warning  'ssr' is assigned a value but never used                       no-unused-vars
+   453:5  warning  'smres' is assigned a value but never used                     no-unused-vars
+   454:5  warning  'r2' is assigned a value but never used                        no-unused-vars
+   456:5  warning  'to' is assigned a value but never used                        no-unused-vars
+   458:5  warning  'hypothesis_table' is assigned a value but never used          no-unused-vars
+   471:5  warning  't_n_2' is assigned a value but never used                     no-unused-vars
+   473:5  warning  'hypo_test_reject_op' is assigned a value but never used       no-unused-vars
+   475:5  warning  'act2_N' is assigned a value but never used                    no-unused-vars
+   476:5  warning  'act2_X' is assigned a value but never used                    no-unused-vars
+   477:5  warning  'act2_beta0' is assigned a value but never used                no-unused-vars
+   478:5  warning  'act2_beta1' is assigned a value but never used                no-unused-vars
+   479:5  warning  'act2_Y2' is assigned a value but never used                   no-unused-vars
+   501:5  warning  'act2_epsilon' is assigned a value but never used              no-unused-vars
+   523:5  warning  'act2_Y' is assigned a value but never used                    no-unused-vars
+   545:5  warning  'act2_all_data' is assigned a value but never used             no-unused-vars
+   668:5  warning  'act2_sum_X' is assigned a value but never used                no-unused-vars
+   669:5  warning  'act2_sum_Y' is assigned a value but never used                no-unused-vars
+   670:5  warning  'act2_sum_Y2' is assigned a value but never used               no-unused-vars
+   671:5  warning  'act2_sum_XY' is assigned a value but never used               no-unused-vars
+   673:5  warning  'act2_mat_A' is assigned a value but never used                no-unused-vars
+   683:5  warning  'act2_mat_x' is assigned a value but never used                no-unused-vars
+   687:5  warning  'act2_mat_B' is assigned a value but never used                no-unused-vars
+   691:5  warning  'a2_mat_A' is assigned a value but never used                  no-unused-vars
+   692:5  warning  'a2_mat_x' is assigned a value but never used                  no-unused-vars
+   693:5  warning  'a2_mat_B' is assigned a value but never used                  no-unused-vars
+   695:5  warning  'act2_X_avg' is assigned a value but never used                no-unused-vars
+   696:5  warning  'act2_Y_avg' is assigned a value but never used                no-unused-vars
+   697:5  warning  'act2_table_data' is assigned a value but never used           no-unused-vars
+   699:5  warning  'act2_table_data_2' is assigned a value but never used         no-unused-vars
+   921:5  warning  'act2_sxx' is assigned a value but never used                  no-unused-vars
+   922:5  warning  'act2_syy' is assigned a value but never used                  no-unused-vars
+   923:5  warning  'act2_sxy' is assigned a value but never used                  no-unused-vars
+   924:5  warning  'act2_ssr' is assigned a value but never used                  no-unused-vars
+   925:5  warning  'act2_smres' is assigned a value but never used                no-unused-vars
+   926:5  warning  'act2_r2' is assigned a value but never used                   no-unused-vars
+   927:5  warning  't1_0' is assigned a value but never used                      no-unused-vars
+   928:5  warning  't1_n_2' is assigned a value but never used                    no-unused-vars
+   929:5  warning  'alpha1' is assigned a value but never used                    no-unused-vars
+   930:5  warning  'act2_hypo_test_reject_op' is assigned a value but never used  no-unused-vars
+   931:5  warning  'a2b1' is assigned a value but never used                      no-unused-vars
+   932:5  warning  'a2a1' is assigned a value but never used                      no-unused-vars
+   934:5  warning  'act3_N' is assigned a value but never used                    no-unused-vars
+   935:5  warning  'act3_X' is assigned a value but never used                    no-unused-vars
+   957:5  warning  'act3_beta0' is assigned a value but never used                no-unused-vars
+   958:5  warning  'act3_beta1' is assigned a value but never used                no-unused-vars
+   959:5  warning  'act3_Y2' is assigned a value but never used                   no-unused-vars
+   981:5  warning  'act3_epsilon' is assigned a value but never used              no-unused-vars
+  1003:5  warning  'act3_Y' is assigned a value but never used                    no-unused-vars
+  1025:5  warning  'act3_all_data' is assigned a value but never used             no-unused-vars
+  1148:5  warning  'act3_sum_X' is assigned a value but never used                no-unused-vars
+  1149:5  warning  'act3_sum_Y' is assigned a value but never used                no-unused-vars
+  1150:5  warning  'act3_sum_X2' is assigned a value but never used               no-unused-vars
+  1151:5  warning  'act3_sum_XY' is assigned a value but never used               no-unused-vars
+  1153:5  warning  'act3_mat_A' is assigned a value but never used                no-unused-vars
+  1163:5  warning  'act3_mat_x' is assigned a value but never used                no-unused-vars
+  1167:5  warning  'act3_mat_B' is assigned a value but never used                no-unused-vars
+  1172:5  warning  'act3_X_avg' is assigned a value but never used                no-unused-vars
+  1173:5  warning  'act3_Y_avg' is assigned a value but never used                no-unused-vars
+  1175:5  warning  'act3_table_data_2' is assigned a value but never used         no-unused-vars
+  1397:5  warning  'act3_sxx' is assigned a value but never used                  no-unused-vars
+  1398:5  warning  'act3_syy' is assigned a value but never used                  no-unused-vars
+  1399:5  warning  'act3_sxy' is assigned a value but never used                  no-unused-vars
+  1400:5  warning  'act3_ssr' is assigned a value but never used                  no-unused-vars
+  1401:5  warning  'act3_smres' is assigned a value but never used                no-unused-vars
+  1402:5  warning  'act3_r2' is assigned a value but never used                   no-unused-vars
+  1403:5  warning  't2_0' is assigned a value but never used                      no-unused-vars
+  1404:5  warning  't2_n_2' is assigned a value but never used                    no-unused-vars
+  1405:5  warning  'alpha2' is assigned a value but never used                    no-unused-vars
+  1406:5  warning  'act3_hypo_test_reject_op' is assigned a value but never used  no-unused-vars
+  1408:5  warning  'act4_t01' is assigned a value but never used                  no-unused-vars
+  1409:5  warning  'act4_t02' is assigned a value but never used                  no-unused-vars
+  1410:5  warning  'act4_t03' is assigned a value but never used                  no-unused-vars
+  1411:5  warning  'alpha3' is assigned a value but never used                    no-unused-vars
+  1412:5  warning  'act4_tn2' is assigned a value but never used                  no-unused-vars
+  1413:5  warning  'chose_op1' is assigned a value but never used                 no-unused-vars
+  1414:5  warning  'chose_op2' is assigned a value but never used                 no-unused-vars
+  1415:5  warning  'chose_op3' is assigned a value but never used                 no-unused-vars
+  1416:5  warning  'chose_op4' is assigned a value but never used                 no-unused-vars
+  1417:5  warning  'calculated_u' is defined but never used                       no-unused-vars
+  1418:5  warning  'calculated_l' is defined but never used                       no-unused-vars
+  1419:5  warning  'act2_calculated_u' is defined but never used                  no-unused-vars
+  1420:5  warning  'act2_calculated_l' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-calibration-problem-iitb/exp-calibration-problem-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+✖ 553 problems (0 errors, 553 warnings)
+
