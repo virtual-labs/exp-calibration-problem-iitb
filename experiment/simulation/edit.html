@@ -1,0 +1,14 @@
+
+   
+            <div style='width: 80vw; margin: auto;' id='question-div'>
+                <h5 class='fs-16px'>${this.question}</h5>
+                <br>
+                <div style='display: grid; grid-template-columns: 1fr 1fr;'>
+                    <div id='op-1' style='border: 2px solid black; margin: 5px;' onclick="Question.select_op('1')"><span> </span> ${this.options[0]}</div>
+                    <div id='op-2' style='border: 2px solid black; margin: 5px;' onclick="Question.select_op('2')"><span> </span> ${this.options[1]}</div>
+                    <div id='op-3' style='border: 2px solid black; margin: 5px;' onclick="Question.select_op('3')"><span> </span> ${this.options[2]}</div>
+                    <div id='op-4' style='border: 2px solid black; margin: 5px;' onclick="Question.select_op('4')"><span> </span> ${this.options[3]}</div>
+                </div>
+                <br>
+                <button id='q-btn' class='btn btn-info std-btn' style='margin-left: 35%;'>Submit</button>
+            </div>

@@ -1,1 +1,1 @@
-### Link your references in here
+Probability Theory and Mathematical Statistics for Engineers by V. S. Pugachev, pergamon press.
