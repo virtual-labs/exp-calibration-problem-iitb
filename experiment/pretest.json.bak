@@ -1,0 +1,83 @@
+[
+   {
+      "question": "Let Y = a+bX be the equation of linear regression of Y on X then",
+      "qid": 1,
+      "option_a": "X represents dependent variable",
+      "option_b": "Y represents independent variable",
+      "option_c": "b represents the slope of line",
+      "option_d": "a represents the slope of line",
+      "correct_option": "c"
+   },
+   {
+      "question": "The slope of regression line of Y on X is also referred to as",
+      "qid": 2,
+      "option_a": "regression coefficient of X on Y",
+      "option_b": "correlation coefficient of X and Y",
+      "option_c": "regression coefficient of Y on X",
+      "option_d": "coefficient of variation",
+      "correct_option": "c"
+   },
+   {
+      "question": "The correlation for the values of two variables moving in the same direction is",
+      "qid": 3,
+      "option_a": "perfect positive",
+      "option_b": "negative",
+      "option_c": "positive",
+      "option_d": "no correlation",
+      "correct_option": "c"
+   },
+   {
+      "question": "Which of the following plots is suitable for describing the linear relationship between two variables?",
+      "qid": 4,
+      "option_a": "Bar plot",
+      "option_b": "Scatter plot",
+      "option_c": "Histogram",
+      "option_d": "Pie chart",
+      "correct_option": "b"
+   },
+   {
+      "question": "For a regression line passing through origin",
+      "qid": 5,
+      "option_a": "there is no correlation between variables",
+      "option_b": "the regression coefficient is zero",
+      "option_c": "the intercept is zero",
+      "option_d": "there is no association between variables",
+      "correct_option": "c"
+   },
+   {
+      "question": "The method of least square used to estimate the unknown constants 'a' & 'b' used in the regression equation, Y=a+bX, minimizes:",
+      "qid": 6,
+      "option_a": "sum of squares different between X and Y",
+      "option_b": "sum of squares of actual and estimated values of Y",
+      "option_c": "sum of squares of difference between actual and estimated values of Y",
+      "option_d": "",
+      "correct_option": "c"
+   },
+   {
+      "question": "For two variables X and Y there can be a maximum of :",
+      "qid": 7,
+      "option_a": "Four regression lines",
+      "option_b": "Two regression lines",
+      "option_c": "Three regression lines",
+      "option_d": "One regression lines",
+      "correct_option": "b"
+   },
+   {
+      "question": "What would be the slopes of two regression lines parallel to each other?",
+      "qid": 8,
+      "option_a": "zero",
+      "option_b": "positive",
+      "option_c": "equal",
+      "option_d": "negative",
+      "correct_option": "c"
+   },
+   {
+      "question": "What is the sum of squares of errors if all the actual and estimated values of Y are same?",
+      "qid": 9,
+      "option_a": "maximum",
+      "option_b": "minimum",
+      "option_c": "zero",
+      "option_d": "unknown",
+      "correct_option": "c"
+   }
+]

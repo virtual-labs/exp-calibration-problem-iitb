@@ -1,0 +1,74 @@
+[
+   {
+      "question": "If Y = a+b<sub>YX</sub>X and X = a'+b<sub>XY</sub>Y be the two regression lines then the correlation between X and Y(r) can be given as :",
+      "qid": 1,
+      "option_a": "r = b<sub>XY</sub> &middot; b<sub>YX</sub>",
+      "option_b": "r = b<sub>XY</sub> + b<sub>YX</sub>",
+      "option_c": "r = &Sqrt;(b<sub>XY</sub> &middot; b<sub>YX</sub>)",
+      "option_d": "r = b<sub>XY</sub> - b<sub>YX</sub>",
+      "correct_option": "c"
+   },
+   {
+      "question": "For the two regression lines of Y on X and X on Y respectively, if the regression coefficient b<sub>YX</sub> and b<sub>XY</sub> both are positive then:",
+      "qid": 2,
+      "option_a": "the correlation coefficient is negative",
+      "option_b": "correlation coefficieint is zero",
+      "option_c": "correlation coefficient is positive",
+      "option_d": "correlation coefficient equals to ratio of regression coefficients",
+      "correct_option": "c"
+   },
+   {
+      "question": "If b<sub>XY</sub> > 1 then b<sub>YX</sub> should be :",
+      "qid": 3,
+      "option_a": "less than 1",
+      "option_b": "equal to 1",
+      "option_c": "1+b<sub>XY</sub>",
+      "option_d": "1-b<sub>XY</sub>",
+      "correct_option": "a"
+   },
+   {
+      "question": "In the least square regression, which of the following is not an assumption about the error term?",
+      "qid": 4,
+      "option_a": "the expected value of error term is 1",
+      "option_b": "the variance of error terms is same for all values of x",
+      "option_c": "the error terms are independent",
+      "option_d": "the error term is normally distributed",
+      "correct_option": "a"
+   },
+   {
+      "question": "If r is the correlation coefficient between X and Y then r<sup>2</sup> is",
+      "qid": 5,
+      "option_a": "coefficient of variation",
+      "option_b": "coefficient of standard deviation",
+      "option_c": "coefficient of association",
+      "option_d": "coefficient of determination",
+      "correct_option": "d"
+   },
+   {
+      "question": "In a regression analysis if r<sup>2</sup>=1 then,",
+      "qid": 6,
+      "option_a": "SSE must be equal to 1",
+      "option_b": "SSE must be equal to zero",
+      "option_c": "SSE must be negative",
+      "option_d": "SSE can be any positive value",
+      "correct_option": "b"
+   },
+   {
+      "question": "A residual plot displays :",
+      "qid": 7,
+      "option_a": "displays residuals of the dependent variable versus residuals of independent variable",
+      "option_b": "residuals of independent variable versus the dependent variable",
+      "option_c": "independent variable versus residual of the dependent variable",
+      "option_d": "independent variable versus dependent",
+      "correct_option": "c"
+   },
+   {
+      "question": "When the error terms have constant variance then the residual plot shows the pattern :",
+      "qid": 8,
+      "option_a": "that fans out",
+      "option_b": "that funnels in",
+      "option_c": "fans out but funnels in",
+      "option_d": "that forms a horizontal band pattern",
+      "correct_option": "d"
+   }
+]
